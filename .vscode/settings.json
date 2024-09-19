@@ -1,8 +1,8 @@
 {
     "editor.quickSuggestions": {
-        "other": false,
-        "comments": false,
-        "strings": false
+        "other": true,
+        "comments": true,
+        "strings": true
     },
     "editor.wordBasedSuggestions": false,
     "editor.suggestOnTriggerCharacters": false,
@@ -13,5 +13,5 @@
     "emmet.includeLanguages": {},
     "emmet.showExpandedAbbreviation": "never",
     "emmet.triggerExpansionOnTab": false,
-    "emmet.extensionsPath": null
+    "emmet.extensionsPath": []
 }
